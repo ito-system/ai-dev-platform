@@ -1,0 +1,21 @@
+{
+  "defaults": {
+    "visibility": "private",
+    "default_branch": "main",
+    "auto_init": false
+  },
+  "commit_conventions": {
+    "format": "<type>: <description>",
+    "types": ["feat", "fix", "refactor", "test", "docs", "chore"],
+    "examples": [
+      "feat: add user authentication endpoint",
+      "fix: resolve nil pointer in user usecase",
+      "test: add unit tests for subscription service"
+    ]
+  },
+  "branch_conventions": {
+    "feature": "feat/<feature-name>",
+    "bugfix": "fix/<bug-description>",
+    "release": "release/<version>"
+  }
+}
