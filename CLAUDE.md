@@ -28,7 +28,7 @@ Prohibited in skills:
   2. Execute implementation skills in order
   3. Run validation skills at the end
 - Every new playbook must follow `templates/playbook-template.md`.
-- Playbooks are placed in `playbooks/saas/` or `playbooks/general/` depending on scope.
+- Playbooks are placed in `playbooks/tob-saas/` or `playbooks/general/` depending on scope.
 
 ---
 
@@ -88,7 +88,7 @@ Prohibited in skills:
 
 - All filenames: kebab-case with `.md` extension
 - Skill names: verb-noun format (`generate-backend-api.md`, `validate-frontend.md`)
-- Playbook names: verb-noun format (`create-saas.md`, `add-feature.md`)
+- Playbook names: verb-noun format (`create-tob-saas.md`, `add-feature.md`)
 - Shared context: domain-focus format (`go-clean-architecture.md`)
 
 ---

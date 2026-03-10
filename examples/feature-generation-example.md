@@ -1,6 +1,6 @@
 # Example: Feature Generation
 
-This example shows running `playbooks/saas/add-feature.md` to add a new feature.
+This example shows running `playbooks/tob-saas/add-feature.md` to add a new feature.
 
 ---
 

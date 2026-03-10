@@ -10,7 +10,7 @@ Generate a complete brand identity definition — tagline, tone of voice, color 
 - `product_name` (required): Display name of the product (e.g., `"OnboardIQ"`)
 - `concept` (required): One-sentence description of what the product does
 - `audience` (required): Target user persona or market segment (e.g., `"HR managers at SMBs"`)
-- `value_proposition` (required): One-sentence VP from `generate-saas-idea` output
+- `value_proposition` (required): One-sentence VP from `generate-tob-saas-idea` output
 - `tone_preference` (optional): Preferred tone direction — `"professional"` | `"friendly"` | `"bold"` | `"minimal"` (default: derived from audience)
 
 ---

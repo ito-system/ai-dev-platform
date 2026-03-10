@@ -2,7 +2,7 @@
 
 <!--
   Instructions:
-  - Replace <playbook-name> with a verb-noun kebab-case name (e.g., create-saas)
+  - Replace <playbook-name> with a verb-noun kebab-case name (e.g., create-tob-saas)
   - Playbooks orchestrate skills. They do not implement logic themselves.
   - Structure: Phase 1 (spec) → Phase 2 (implement) → Phase 3 (validate) → Phase 4 (commit)
   - Place this file in playbooks/<category>/<playbook-name>.md

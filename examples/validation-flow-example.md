@@ -6,7 +6,7 @@ This example shows a validation failure and resolution.
 
 ## Scenario
 
-After running `playbooks/saas/add-feature.md` for a payments feature, validation fails.
+After running `playbooks/tob-saas/add-feature.md` for a payments feature, validation fails.
 
 ---
 

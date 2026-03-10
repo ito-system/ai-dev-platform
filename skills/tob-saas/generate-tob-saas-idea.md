@@ -1,4 +1,4 @@
-# Skill: generate-saas-idea
+# Skill: generate-tob-saas-idea
 
 ## Responsibility
 Generate a validated SaaS product concept — including value proposition, core features, and monetization model — from a target market and problem domain.
@@ -67,7 +67,7 @@ Feasibility: PASS / FAIL — <reason if FAIL>
 
 This output is consumed by:
 - `skills/project/generate-product-name.md` (pass value proposition + market)
-- `skills/saas/generate-core-feature.md` (pass core features[1] as the feature to build first)
+- `skills/tob-saas/generate-core-feature.md` (pass core features[1] as the feature to build first)
 
 ---
 

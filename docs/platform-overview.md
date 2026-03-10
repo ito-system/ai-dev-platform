@@ -67,7 +67,7 @@ See:
 
 | Type | Primary playbook |
 |---|---|
-| SaaS | `playbooks/saas/create-saas.md` |
-| Feature addition | `playbooks/saas/add-feature.md` |
+| SaaS | `playbooks/tob-saas/create-tob-saas.md` |
+| Feature addition | `playbooks/tob-saas/add-feature.md` |
 | General project | `playbooks/general/create-project.md` |
 | Any feature | `playbooks/general/implement-feature.md` |

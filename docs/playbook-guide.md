@@ -8,7 +8,7 @@ This guide explains how to design and use playbooks.
 
 A playbook is a Markdown file that orchestrates a sequence of skills into a full workflow.
 
-Example: `playbooks/saas/create-saas.md`
+Example: `playbooks/tob-saas/create-tob-saas.md`
 → Generates a complete SaaS product from concept to committed repository.
 
 ---
@@ -19,7 +19,7 @@ Every playbook must follow the four-phase structure:
 
 | Phase | Content |
 |---|---|
-| Phase 1: Specification | Generate specs using saas/ or project/ skills |
+| Phase 1: Specification | Generate specs using tob-saas/ or project/ skills |
 | Phase 2: Implementation | Generate code using development/ skills |
 | Phase 3: Validation | Verify artifacts using validation/ skills |
 | Phase 4: Commit | Commit changes using github/ skills |
@@ -32,7 +32,7 @@ Use `templates/playbook-template.md` as your starting point.
 
 | Category | Location | Purpose |
 |---|---|---|
-| SaaS | `playbooks/saas/` | SaaS product workflows |
+| SaaS | `playbooks/tob-saas/` | SaaS product workflows |
 | General | `playbooks/general/` | Generic project workflows |
 
 ---
@@ -43,7 +43,7 @@ Use `templates/playbook-template.md` as your starting point.
 2. Always read relevant `shared-context/` documents before implementation phase.
 3. Always end with validation. A FAIL must block completion.
 4. Use role prompts from `prompts/system/` at the start.
-5. File name must be kebab-case verb-noun: `create-saas.md`.
+5. File name must be kebab-case verb-noun: `create-tob-saas.md`.
 
 ---
 

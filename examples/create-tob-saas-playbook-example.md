@@ -1,6 +1,6 @@
-# Example: Running create-saas Playbook
+# Example: Running create-tob-saas Playbook
 
-This example shows a full run of `playbooks/saas/create-saas.md`.
+This example shows a full run of `playbooks/tob-saas/create-tob-saas.md`.
 
 ---
 
@@ -15,7 +15,7 @@ problem_domain: "employee onboarding"
 
 ## Phase 1: Ideation output
 
-**Skill: generate-saas-idea**
+**Skill: generate-tob-saas-idea**
 
 - Product: OnboardFlow
 - Value proposition: "Automate employee onboarding so HR teams save 10 hours per new hire."

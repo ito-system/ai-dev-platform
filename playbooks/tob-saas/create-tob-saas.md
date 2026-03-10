@@ -30,7 +30,7 @@ Read `prompts/system/architect-role.md` before starting. Apply architect-level j
 **Goal:** Produce a validated product concept, name, and brand identity.
 
 ### Step 1 — Generate SaaS Idea
-Execute skill: `skills/saas/generate-saas-idea.md`
+Execute skill: `skills/tob-saas/generate-tob-saas-idea.md`
 
 Input:
 - `market` → from playbook input
@@ -91,7 +91,7 @@ Output to capture:
 **Goal:** Produce a complete, implementation-ready specification for the core feature.
 
 ### Step 4 — Generate Core Feature Specification
-Execute skill: `skills/saas/generate-core-feature.md`
+Execute skill: `skills/tob-saas/generate-core-feature.md`
 
 Input:
 - `product_name` → `display_name` from Step 2

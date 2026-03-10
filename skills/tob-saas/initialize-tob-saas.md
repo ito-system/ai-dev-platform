@@ -1,4 +1,4 @@
-# Skill: initialize-saas
+# Skill: initialize-tob-saas
 
 ## Responsibility
 Prepare a newly cloned SaaS repository for immediate development by setting up the environment file, starting Docker containers, running database migrations, and applying initial seed data — then verifying the baseline build and test suite pass.

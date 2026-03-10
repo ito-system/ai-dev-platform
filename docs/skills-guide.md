@@ -35,7 +35,7 @@ Use `templates/skill-template.md` as your starting point.
 |---|---|---|
 | GitHub | `skills/github/` | Repository and commit operations |
 | Project | `skills/project/` | Project-level setup tasks |
-| SaaS | `skills/saas/` | SaaS ideation and specification |
+| SaaS | `skills/tob-saas/` | SaaS ideation and specification |
 | Development | `skills/development/` | Code generation (API, UI, DB, tests) |
 | Validation | `skills/validation/` | Quality and consistency checks |
 

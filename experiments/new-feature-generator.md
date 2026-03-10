@@ -34,7 +34,7 @@ When `full_implementation: true`:
 
 1. Extend `skills/development/generate-backend-api.md` with the flag.
 2. Add a `generate-openapi-spec.md` skill in `skills/development/`.
-3. Update `playbooks/saas/add-feature.md` to use `full_implementation: true` by default.
+3. Update `playbooks/tob-saas/add-feature.md` to use `full_implementation: true` by default.
 4. Add validation check for OpenAPI spec in `skills/validation/validate-backend.md`.
 
 ---

@@ -64,7 +64,7 @@ This information is required inputs to the next step. Do not skip this collectio
 ---
 
 ### Step 3 — Generate Feature Specification
-Execute skill: `skills/saas/generate-feature.md`
+Execute skill: `skills/tob-saas/generate-feature.md`
 
 Input:
 - `product_name` → from playbook input

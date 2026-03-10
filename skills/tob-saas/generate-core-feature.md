@@ -8,7 +8,7 @@ Generate a complete, implementation-ready specification for the single most crit
 ## Input
 
 - `product_name` (required): Name of the SaaS product (e.g., `"OnboardIQ"`)
-- `value_proposition` (required): One-sentence value proposition from `generate-saas-idea` output
+- `value_proposition` (required): One-sentence value proposition from `generate-tob-saas-idea` output
 - `feature_name` (required): Name of the core feature to specify (e.g., `"Automated Task Assignment"`)
 - `target_user` (required): Primary user persona (e.g., `"HR manager at a 50-person company"`)
 - `data_entities` (optional): Known entities already defined in the project (e.g., `["User", "Organization"]`)
@@ -123,7 +123,7 @@ Prerequisites:
 
 ## Notes
 
-- This skill specifies **one feature only**. Additional features use `skills/saas/generate-feature.md`.
+- This skill specifies **one feature only**. Additional features use `skills/tob-saas/generate-feature.md`.
 - The core feature must be the **minimum viable deliverable** that proves the value proposition — do not expand scope.
 - Idempotent: if a specification file for this feature already exists, read it first. Only regenerate fields that have changed inputs. Do not overwrite a completed spec without explicit instruction.
 - All API endpoint designs must comply with `shared-context/api-design-guidelines.md` before this skill is considered complete.

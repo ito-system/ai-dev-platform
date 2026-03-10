@@ -29,7 +29,7 @@ Example: `skills/development/generate-backend-api.md`
 Playbooks orchestrate skills into full development workflows.
 They read shared context, call skills in order, and run validation.
 
-Example: `playbooks/saas/create-saas.md`
+Example: `playbooks/tob-saas/create-tob-saas.md`
 → Generates a complete SaaS from scratch.
 
 ### Shared Context

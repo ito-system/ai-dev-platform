@@ -407,4 +407,4 @@ As a <role>, I want <action> so that <benefit>.
 - The saved spec file is the single source of truth for this feature. Playbooks must read it before starting implementation.
 - Seed data records must use clearly fictional values. Never use real email addresses, real organization names, or any PII.
 - If `priority` is `"critical"`, all edge cases must have test specifications. For `"standard"` and `"low"`, document edge cases in the spec but mark test coverage as recommended rather than required.
-- This skill supersedes `skills/saas/generate-feature.md` when a saved spec file is required. Use `generate-feature.md` for lightweight, in-session-only specs. Use this skill when the spec must persist and be consumed by downstream Playbooks.
+- This skill supersedes `skills/tob-saas/generate-feature.md` when a saved spec file is required. Use `generate-feature.md` for lightweight, in-session-only specs. Use this skill when the spec must persist and be consumed by downstream Playbooks.

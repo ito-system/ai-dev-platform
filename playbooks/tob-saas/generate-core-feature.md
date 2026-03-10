@@ -53,7 +53,7 @@ Do not proceed to Step 2 until all three documents have been read.
 ---
 
 ### Step 2 — Generate Core Feature Specification
-Execute skill: `skills/saas/generate-core-feature.md`
+Execute skill: `skills/tob-saas/generate-core-feature.md`
 
 Input:
 - `product_name` → from playbook input

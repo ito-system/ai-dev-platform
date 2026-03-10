@@ -24,7 +24,7 @@ This file tracks experimental playbook ideas under development.
 
 ---
 
-## Experiment: generate-saas-landing-page
+## Experiment: generate-tob-saas-landing-page
 
 **Status:** Concept
 
@@ -35,7 +35,7 @@ This file tracks experimental playbook ideas under development.
 **Output:** Single-page React component with hero, features, and CTA sections.
 
 **Open questions:**
-- Should this go in `skills/saas/` or a new `skills/marketing/`?
+- Should this go in `skills/tob-saas/` or a new `skills/marketing/`?
 - What CSS framework assumption?
 
 ---

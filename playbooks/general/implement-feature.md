@@ -16,7 +16,7 @@ Read `prompts/system/senior-engineer.md` before starting.
 
 ## Phase 1: Specification
 
-1. Execute skill: `skills/saas/generate-feature.md`
+1. Execute skill: `skills/tob-saas/generate-feature.md`
 
 ---
 
